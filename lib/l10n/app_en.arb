@@ -1,0 +1,33 @@
+{
+    "@@locale": "en",
+    "appTitle": "Pocket Binder",
+    "homePageTitle": "Pocket Binder",
+    "newBinder": "New Binder",
+    "binderName": "Binder Name",
+    "totalPage": "Total Page",
+    "pocketStyle": "Pocket Style",
+    "noBinder": "Click + to make new binder",
+    "exampleRareCollection": "Example: Rarest Collection's",
+    "changeName": "Change Name",
+    "cancel": "Cancel",
+    "save": "Save",
+    "page": "Page",
+    "saveAndExit": "Save & Exit",
+    "pickACard": "Pick a Card",
+    "searchCard": "Search Card...",
+    "select": "Select",
+    "changeCard": "Change Card",
+    "mark": "Mark",
+    "emptyPocket": "Empty Pocket",
+    "markAsAcquired": "Mark as 'Acquired'",
+    "markAsNotAcquired": "Mark as 'Not Acquired'",
+    "binderNameCannotBeEmpty": "Binder name cannot be empty!",
+    "undo": "Undo",
+    "binderDeleted": "{binderName} has been deleted",
+    "binderAfterBuild": "{pages} Pages, {rows}x{cols} Pocket per Page",
+    "@binderAfterBuild": {
+        "placeholders": {
+            "pages": {}, "rows": {}, "cols": {}
+        }
+    }
+}

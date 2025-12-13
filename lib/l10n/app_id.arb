@@ -1,0 +1,33 @@
+{
+    "@@locale": "id",
+    "appTitle": "Binder Kartu",
+    "homePageTitle": "Binder Kartu",
+    "newBinder": "Buat Binder Baru",
+    "binderName": "Nama Binder",
+    "totalPage": "Jumlah Halaman",
+    "pocketStyle": "Pilih Ukuran Grid per Halaman",
+    "noBinder": "Belum ada binder. Tekan + untuk membuat baru.",
+    "exampleRareCollection": "Contoh: Koleksi Kartu Langka",
+    "changeName": "Ganti Nama Binder",
+    "cancel": "Batal",
+    "save": "Simpan",
+    "page": "Halaman",
+    "saveAndExit": "Simpan & Kembali",
+    "pickACard": "Pilih kartu",
+    "searchCard": "Cari kartu...",
+    "select": "Pilih",
+    "changeCard": "Ganti Kartu",
+    "mark": "Tandai",
+    "emptyPocket": "Kosongkan Pocket",
+    "markAsAcquired": "Tandai 'Acquired'",
+    "markAsNotAcquired": "Tandai 'Not Acquired'",
+    "binderNameCannotBeEmpty": "Nama binder tidak boleh kosong!",
+    "undo": "Urungkan",
+    "binderDeleted": "{binderName} telah dihapus",
+    "binderAfterBuild": "{pages} halaman, {rows}x{cols} Pocket per halaman",
+    "@binderAfterBuild": {
+        "placeholders": {
+            "pages": {}, "rows": {}, "cols": {}
+        }
+    }
+}
