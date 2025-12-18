@@ -1,12 +1,13 @@
 import 'dart:convert';
 
-import 'package:binder_app/l10n/app_localizations.dart';
-import 'package:binder_app/main.dart' show BinderApp;
-import 'package:binder_app/binder_models.dart';
-import 'package:binder_app/binder_view.dart';
-import 'package:binder_app/create_binder_sheet.dart';
+import 'package:binder_app/l10n/generated/app_localizations.dart';
+import 'package:binder_app/core/models/binder_models.dart';
+import 'package:binder_app/ui/view/binder_view.dart';
+import 'package:binder_app/ui/sheets/create_binder_sheet.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+
+import 'package:binder_app/app/binder_app.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});

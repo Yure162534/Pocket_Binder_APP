@@ -1,10 +1,9 @@
-import 'package:binder_app/data/db.dart';
-import 'package:binder_app/l10n/app_localizations.dart';
-import 'package:binder_app/main.dart';
-import 'package:binder_app/binder_models.dart';
-import 'package:binder_app/card_picker_sheet.dart';
-import 'package:binder_app/filter_dialog.dart';
-import 'package:binder_app/pocket_actions_sheet.dart';
+import 'package:binder_app/core/database/db.dart';
+import 'package:binder_app/l10n/generated/app_localizations.dart';
+import 'package:binder_app/core/models/binder_models.dart';
+import 'package:binder_app/ui/sheets/card_picker_sheet.dart';
+import 'package:binder_app/ui/dialogs/filter_dialog.dart';
+import 'package:binder_app/ui/sheets/pocket_actions_sheet.dart';
 import 'package:flutter/material.dart';
 
 class BinderView extends StatefulWidget {

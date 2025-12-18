@@ -1,4 +1,4 @@
-import 'package:binder_app/home_page.dart';
+import 'package:binder_app/ui/pages/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

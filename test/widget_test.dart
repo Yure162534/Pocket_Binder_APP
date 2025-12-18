@@ -4,11 +4,9 @@
 // utility in the flutter_test package. For example, you can send tap and scroll
 // gestures. You can also use WidgetTester to find child widgets in the widget
 // tree, read text, and verify that the values of widget properties are correct.
-
+import 'package:binder_app/app/binder_app.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-
-import 'package:binder_app/main.dart'; // Pastikan path import ini benar
 
 void main() {
   testWidgets('HomePage shows title and FAB', (WidgetTester tester) async {
